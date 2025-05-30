@@ -7,7 +7,7 @@ public class ATM {
 	public static void main(String[] args) {
 		Scanner input =new Scanner (System.in);
         int bakiye=1000,secim,miktar;
-        System.out.println("KAZIKBANK'A HOSGELDINIZ!!!\n");
+        System.out.println("TARIMBANK'A HOSGELDINIZ!!!\n");
         System.out.println("Guncel bakiyeniz: \n"+bakiye);
       
         
